@@ -1,2 +1,2 @@
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdvK8jjEeDZp587aPpIwLaf-Y5Qkr-hxMxjw&s');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://hips.hearstapps.com/hmg-prod/images/mh-3-23-coleman-1648059910.png');]{x0000}$}
