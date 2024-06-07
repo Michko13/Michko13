@@ -1,12 +1,2 @@
-
 ```math
-\ce{$\unicode[goombafont; animation: confetti 1s infinite; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; opacity: 0.5;]{}$
-@keyframes confetti {
-0% { background-position: 0 0; }
-100% { background-position: 100% 100%; }
-}
-@-webkit-keyframes confetti {
-0% { background-position: 0 0; }
-100% { background-position: 100% 100%; }
-}
-}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Michko13/Michko13/blob/main/giphy.gif?raw=true');]{x0000}$}
